@@ -1,0 +1,8 @@
+# Backend
+backend/.env
+backend/.gitignore
+backend/venv/
+
+# Frontend
+frontend/node_modules/
+frontend/venv/
